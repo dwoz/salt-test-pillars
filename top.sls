@@ -1,3 +1,3 @@
 "{{saltenv}}":
   '*':
-    - test_pillar.sls
+    - test_pillar
