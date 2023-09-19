@@ -1,6 +1,3 @@
-base:
-  '*':
-    - test_pillar.sls
-master:
+{{env}}:
   '*':
     - test_pillar.sls
