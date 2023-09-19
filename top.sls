@@ -1,3 +1,3 @@
-{{env}}:
+{{saltenv}}:
   '*':
     - test_pillar.sls
